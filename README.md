@@ -1,4 +1,4 @@
-#Links úteis para um programador iniciante
+# Links úteis para um programador iniciante
 
 Para aprender a programar, o melhor mesmo é botar a mão na massa. Nesse site tem uma série de problemas que podem ser resolvidos para exercitar tanto o raciocínio lógico como a lógica de programação. (DojoPuzzles)[http://dojopuzzles.com/]
 
@@ -34,9 +34,9 @@ Para desenvolver um bom código, não tem problema nenhum em se espelhar em quem
 
 
 
-#Tópicos avançados:
+# Tópicos avançados:
 
-###PodCasts sugeridos
+### PodCasts sugeridos
 
 PodProgramar
 https://open.spotify.com/show/16ZtU9p6Pja5H87W35owjY?si=_-TrLevkToWenNR4D0M77Q
@@ -44,7 +44,7 @@ https://open.spotify.com/show/16ZtU9p6Pja5H87W35owjY?si=_-TrLevkToWenNR4D0M77Q
 Lambda3
 https://open.spotify.com/show/3JaY0FNeylfy86nFG8qbfi?si=SscqBEd3SzijFkbAS1le2w
 
-###Livros Sugeridos
+### Livros Sugeridos
 
 Programador Pragmatico
 https://www.amazon.com.br/Programador-Pragmático-Aprendiz-Mestre-ebook/dp/B019HM0H90/ref=sr_1_1
