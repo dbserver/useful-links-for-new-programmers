@@ -1,1 +1,68 @@
-# useful-links-for-new-programmers
+#Links úteis para um programador iniciante
+
+Para aprender a programar, o melhor mesmo é botar a mão na massa. Nesse site tem uma série de problemas que podem ser resolvidos para exercitar tanto o raciocínio lógico como a lógica de programação. (DojoPuzzles)[http://dojopuzzles.com/]
+
+Encontrar outros programadores que tem interesses em comum é a melhor forma de se atualizar e receber dicas valiosas, o que é muito importante para quem está começando. O site MeetUp é um site onde pessoas organizam encontros com temas. Existem diversos grupos de programação no meetup, como o PyTche (para programadores Python) e o Kotlin POA (para programadores Kotlin). 
+https://www.meetup.com/pt-BR/
+
+Para praticar dojos com um pessoal que tem uma cultura forte de programação em pares, existe o grupo de Dojo da TW que se encontra com regularidade para participar da dinâmica da mesma forma que foi apresentado na etapa de seleção.  
+https://www.meetup.com/pt-BR/dojo-tw-poa/
+
+Participar de eventos da área também é uma forma de conhecer outros programadores e empresas da região. Eventos como o TDC propiciam um aprendizado de diversas linguagens e ferramentas que podem ajudar muito quem está começando na área de TI.
+https://thedevconf.com/
+
+Para aqueles que gostam de JavaScript, em Porto Alegre acontece o BrazilJS que é um evento muito interessante que reune programadores de todo o Brasil.
+https://braziljs.org/
+
+O Clean Code é um livro importante na área. É um livro que muitas empresas pedem para seus funcionários lerem, por ter diversos padrões e regras para escrever e manter um bom código. O clean code fala de coisas como: nomes de váriaveis, comentar ou não o código, como escrever testes entre outras coisas que facilitam a vida do programador.
+https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=sr_1_2
+
+Para aqueles que não tem acesso ao livro mas gostariam de estudar o clean code, no canal do  Filipe Deschamps tem uma playlist de vídeos onde ele comenta um pouco os principais tópicos do clean code.
+https://www.youtube.com/playlist?list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK
+
+
+O livro Clean Coder segue muito o estilo do Clean Code, porém com um viés mais pessoal. O livro fala sobre como um profissional de TI deve se portar, o que é esperado dele e como reagir em sintuações diversas. Um livro muito importante para aqueles que estão entrando na área entender e reagir melhor as situações cotidianas da vida de um programador.
+https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476/ref=sr_1_1
+
+É natural na vida de um programador passar por problemas que não consegue resolver sozinho, e ta tudo bem! Provavelmente algum programador ja passou por algum problema parecido, e existe muito a chance de ele ter colocado a solução na internet. O StackOverflow já ajudou muito programadores a resolver problemas pontuais de programação. Pode usá-lo sem medo!
+https://pt.stackoverflow.com/
+
+Para desenvolver um bom código, não tem problema nenhum em se espelhar em quem faz um bom código. Olhe para códigos bons, entenda como eles foram feitos e tente ao máximo seguir os passos de quem já faz isso bem. Aqui ta uma dica de programadores que fazem códigos em que você pode se espelhar
+- Edson Yanaga - https://github.com/yanaga
+- Otavio Santana - https://github.com/otaviojava
+- Jaydson Gomes - https://github.com/jaydson
+
+
+
+#Tópicos avançados:
+
+###PodCasts sugeridos
+
+PodProgramar
+https://open.spotify.com/show/16ZtU9p6Pja5H87W35owjY?si=_-TrLevkToWenNR4D0M77Q
+
+Lambda3
+https://open.spotify.com/show/3JaY0FNeylfy86nFG8qbfi?si=SscqBEd3SzijFkbAS1le2w
+
+###Livros Sugeridos
+
+Programador Pragmatico
+https://www.amazon.com.br/Programador-Pragmático-Aprendiz-Mestre-ebook/dp/B019HM0H90/ref=sr_1_1
+
+Refatoração: Aperfeiçoando o Projeto de Código Existente
+https://www.amazon.com.br/Refatoração-Aperfeiçoando-Projeto-Código-Existente-ebook/dp/B019IZK89A/ref=pd_sbs_351_3/146-4081941-2565422
+
+Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos
+https://www.amazon.com.br/Padrões-Projetos-Soluções-Reutilizáveis-Orientados-ebook/dp/B016N8RJUQ/ref=pd_sbs_351_6/146-4081941-2565422
+
+Clean Architecture: A Craftsman's Guide to Software Structure and Design
+https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/ref=pd_sbs_351_12
+
+Code Complete Um Guia Pratico Para A Construção de Software
+https://www.amazon.com.br/Code-Complete-Guia-Prático-Construção/dp/8536305045/ref=sr_1_4
+
+Use a Cabeça! Padrões de Projetos
+https://www.amazon.com.br/Cabeça-Padrões-Projetos-Eric-Freeman/dp/8576081741/ref=sr_1_1
+
+Test Driven Development: By Example
+https://www.amazon.com.br/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_1
