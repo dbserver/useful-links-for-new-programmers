@@ -34,6 +34,24 @@ Para desenvolver um bom código, não tem problema nenhum em se espelhar em quem
 - [Jaydson Gomes](https://github.com/jaydson)
 
 
+Alguns sites com desafios de programação, live coding, etc:
+
+- [Live Coding](https://www.education-ecosystem.com)
+
+É uma plataforma de streaming para programadores e é uma grande oportunidade para conhecer outros profissionais, assistir a seus trabalhos e aprender mais. Segundo alguns programadores, estar acompanhado de espectadores disciplina e estimula, não deixando que se perca o foco no que se está fazendo. 
+
+- [Coderwall](https://coderwall.com/)
+
+Coderwall é uma plataforma de aprendizado colaborativo para desenvolvedores de software aprimorarem seus conhecimentos de programação.
+
+- [Programmr](http://www.programmr.com/)
+
+Programmr é um laboratório interativo on-line para estudantes e entusiastas aprenderem, praticarem e tornarem-se proficientes em programação. No Programmr, você pode codificar, compilar e executar projetos no seu navegador em praticamente qualquer linguagem. O site oferece várias competições e concursos de codificação.
+
+- [Codewars](https://www.codewars.com/)
+
+Codewars é uma plataforma on-line criada para os desafios de código produzidos pelos usuários e soluções crowd-sourced. Ela permite que seus usuários treinem em desafios de código para afiar suas habilidades, provar suas competências e trocar experiências.
+
 
 # Tópicos avançados:
 
