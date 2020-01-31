@@ -1,18 +1,18 @@
-# Links úteis para um programador iniciante
+# Links úteis para uma pessoa desenvolvedora iniciante
 
 Para aprender a programar, o melhor mesmo é botar a mão na massa. Nesse site tem uma série de problemas que podem ser resolvidos para exercitar tanto o raciocínio lógico como a lógica de programação. 
 - [DojoPuzzles](http://dojopuzzles.com/)
 
-Encontrar outros programadores que tem interesses em comum é a melhor forma de se atualizar e receber dicas valiosas, o que é muito importante para quem está começando. O site MeetUp é um site onde pessoas organizam encontros com temas. Existem diversos grupos de programação no meetup, como o PyTche (para programadores Python) e o Kotlin POA (para programadores Kotlin). 
+Encontrar outras pessoas com interesses em comum é a melhor forma de se atualizar e receber dicas valiosas, o que é muito importante para quem está começando a programar. O site MeetUp é um site onde pessoas organizam encontros com temas. Existem diversos grupos de programação no meetup, como o PyTche (para programadores Python) e o Kotlin POA (para programadores Kotlin) entre outras diversas liguagens e ferramentas. 
 - [MeetUp](https://www.meetup.com/pt-BR/)
 
 Para praticar dojos com um pessoal que tem uma cultura forte de programação em pares, existe o grupo de Dojo da TW que se encontra com regularidade para participar da dinâmica da mesma forma que foi apresentado na etapa de seleção.  
 - [MeetUp Dojo TW](https://www.meetup.com/pt-BR/dojo-tw-poa/)
 
-Participar de eventos da área também é uma forma de conhecer outros programadores e empresas da região. Eventos como o TDC propiciam um aprendizado de diversas linguagens e ferramentas que podem ajudar muito quem está começando na área de TI.
+Participar de eventos da área também é uma forma de conhecer a comunidade de desenvolvimento e empresas da região. Eventos como o TDC propiciam um aprendizado de diversas linguagens e ferramentas que podem ajudar muito quem está começando na área de TI.
 - [The Developers Conference](https://thedevconf.com/)
 
-Para aqueles que gostam de JavaScript, em Porto Alegre acontece o BrazilJS que é um evento muito interessante que reune programadores de todo o Brasil.
+Para aqueles que gostam de JavaScript, em Porto Alegre acontece o BrazilJS que é um evento muito interessante que reune a comunidade de desenvolvimento JS de todo o Brasil.
 - [BrazilJS](https://braziljs.org/)
 
 O Clean Code é um livro importante na área. É um livro que muitas empresas pedem para seus funcionários lerem, por ter diversos padrões e regras para escrever e manter um bom código. O clean code fala de coisas como: nomes de váriaveis, comentar ou não o código, como escrever testes entre outras coisas que facilitam a vida do programador.
@@ -22,13 +22,13 @@ Para aqueles que não tem acesso ao livro mas gostariam de estudar o clean code,
 - [Filipe Deschamps - Vídeos sobre clean code](https://www.youtube.com/playlist?list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK)
 
 
-O livro Clean Coder segue muito o estilo do Clean Code, porém com um viés mais pessoal. O livro fala sobre como um profissional de TI deve se portar, o que é esperado dele e como reagir em sintuações diversas. Um livro muito importante para aqueles que estão entrando na área entender e reagir melhor as situações cotidianas da vida de um programador.
+O livro Clean Coder segue muito o estilo do Clean Code, porém com um viés mais pessoal. O livro fala sobre como uma pessoa da área TI deve se portar, o que é esperado dessa pessoa, e como reagir em sintuações diversas. Um livro muito importante para aqueles que estão entrando na área entender e reagir melhor as situações cotidianas da vida de pessoa programadora.
 - [Livro Clean Coder](https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476/ref=sr_1_1)
 
-É natural na vida de um programador passar por problemas que não consegue resolver sozinho, e ta tudo bem! Provavelmente algum programador ja passou por algum problema parecido, e existe muito a chance de ele ter colocado a solução na internet. O StackOverflow já ajudou muito programadores a resolver problemas pontuais de programação. Pode usá-lo sem medo!
+É natural na vida de uma pessoa programadora passar por problemas que não consegue resolver só, e ta tudo bem! Provavelmente outras pessoas ja passaram por algum problema parecido, e existe muito a chance de terem colocado a solução na internet. O StackOverflow já ajudou muito programadores a resolver problemas pontuais de programação. Pode usá-lo sem medo!
 - [StackOverflow](https://pt.stackoverflow.com/)
 
-Para desenvolver um bom código, não tem problema nenhum em se espelhar em quem faz um bom código. Olhe para códigos bons, entenda como eles foram feitos e tente ao máximo seguir os passos de quem já faz isso bem. Aqui ta uma dica de programadores que fazem códigos em que você pode se espelhar
+Para desenvolver um bom código, não tem problema nenhum em se espelhar em quem faz um bom código. Olhe para códigos bons, entenda como eles foram feitos e tente ao máximo seguir os passos de quem já faz isso bem. Aqui ta uma dica de programadores que fazem códigos em que você pode se espelhar.
 - [Edson Yanaga](https://github.com/yanaga)
 - [Otavio Santana](https://github.com/otaviojava)
 - [Jaydson Gomes](https://github.com/jaydson)
