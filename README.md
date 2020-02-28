@@ -60,6 +60,11 @@ Codewars é uma plataforma on-line criada para os desafios de código produzidos
 - [PodProgramar](https://open.spotify.com/show/16ZtU9p6Pja5H87W35owjY?si=_-TrLevkToWenNR4D0M77Q)
 - [Lambda3](https://open.spotify.com/show/3JaY0FNeylfy86nFG8qbfi?si=SscqBEd3SzijFkbAS1le2w)
 
+### Artigos sugeridos
+
+Padrões de projeto são muito importantes para aplicações com [DDD](https://www.lambda3.com.br/2017/10/desmistificando-o-ddd/), ou aplicações do conceito [SOLID](https://medium.com/thiago-aragao/solid-princ%C3%ADpios-da-programa%C3%A7%C3%A3o-orientada-a-objetos-ba7e31d8fb25). Este [artigo](https://medium.com/xp-inc/desing-patterns-parte-2-2a61878846d) sobre os padrões de projeto do GOF esta bem detalhado.
+- [medium.com/xp-inc/desing-patterns-parte-2](https://medium.com/xp-inc/desing-patterns-parte-2-2a61878846d)
+
 ### Livros Sugeridos
 
 - [Programador Pragmatico](https://www.amazon.com.br/Programador-Pragmático-Aprendiz-Mestre-ebook/dp/B019HM0H90/ref=sr_1_1)
